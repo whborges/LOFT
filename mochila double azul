@@ -21,10 +21,12 @@
 <div style="background-color: #f9f8fb; padding: 20px 10px"><span style="font-size:18px;"><strong>Conte&uacute;do da Embalagem</strong></span>
 
 <ul style="font-size:16px; font-family:roboto; font-weight:300;">
-	<li>-1 Cabo USB/Micro USB</li>
-	<li>-1 Case carregadora</li>
-	<li>-1 Manual do usu&aacute;rio</li>
-	<li>-1 Par de Fones C2 LED Light</li>
+	<li>-1 Cabo USB</li>
+	<li>-1 entrada externa USB</li>
+	<li>-Astes regul&aacute;veis nas al&ccedil;as</li>
+	<li>-Z&iacute;peres de metal</li>
+	<li>-Bolso externo f&aacute;cil na al&ccedil;a</li>
+	<li>-Bolso interno para Notebook/iPad</li>
 </ul>
 </div>
 <br />
@@ -35,7 +37,7 @@
     padding-bottom: 56.25%;
     height: 0; overflow: hidden;
     max-width: 100%;
-  }
+  } 
   .embed-container iframe, .embed-container object, .embed-container embed {
     position: absolute;
     top: 0;
@@ -48,47 +50,18 @@
 <div style="box-shadow: 0 0 1em #D0D0D0; border: 1px ;">
 <h4 style="font-family: roboto; font-weight: 600; font-size: 24px;padding: 10px 0px; text-align: center;">FICHA T&Eacute;CNICA</h4>
 
-<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; background-color: #f9f8fb; padding: 20px 5px"><strong>Vers&atilde;o bluetooth:</strong><br />
-V5.0 + EDR</h3>
+<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; background-color: #f9f8fb; padding: 20px 5px"><strong>Modelo:</strong><br />
+Antifurto</h3>
 
-<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; padding: 10px 5px"><strong>Imped&acirc;ncia:</strong><br />
-32 O</h3>
+<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; padding: 10px 5px"><strong>Conex&atilde;o com:</strong><br />
+USB</h3>
 
-<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; background-color: #f9f8fb; padding: 20px 5px"><strong>Sensibilidade do Microfone:</strong><br />
--42Db</h3>
+<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; background-color: #f9f8fb; padding: 20px 5px"><strong>Z&iacute;peres em:</strong><br />
+Metal</h3>
 
-<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; padding: 10px 5px"><strong>Frequ&ecirc;ncia do Bluetooth:</strong><br />
-2.4 GHz</h3>
+<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; padding: 10px 5px"><strong>Costura refor&ccedil;ada</strong></h3>
 
-<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; background-color: #f9f8fb; padding: 20px 5px"><strong>Capacidade da Bateria:</strong><br />
-50 mAh</h3>
-
-<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; padding: 10px 5px"><strong>Voltagem de carregamento:</strong><br />
-DC5V</h3>
-
-<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; background-color: #f9f8fb; padding: 20px 5px"><strong>Alcance de sinal:</strong><br />
-at&eacute; 10 metros</h3>
-
-<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; padding: 10px 5px"><strong>Bateria dos Fones:</strong><br />
-50mAh</h3>
-
-<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; background-color: #f9f8fb; padding: 20px 5px"><strong>Tempo de funcionamento:</strong><br />
-&tilde; 4 horas</h3>
-
-<h4 style="font-family: roboto; font-weight: 300; font-size: 16px; padding: 10px 5px"><strong>Tempo de carregamento:</strong><br />
-&tilde; 1 hora</h4>
-
-<h4 style="font-family: roboto; font-weight: 300; font-size: 16px; background-color: #f9f8fb; padding: 20px 5px "><strong>Tempo em standby:</strong><br />
-120 horas</h4>
-
-<h4 style="font-family: roboto; font-weight: 300; font-size: 16px; padding: 10px 5px"><strong>Voltagem de entrada:</strong><br />
-5V</h4>
-
-<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; background-color: #f9f8fb; padding: 20px 5px"><strong>Voltagem de sa&iacute;da:</strong><br />
-5V 1A</h3>
-
-<h4 style="font-family: roboto; font-weight: 300; font-size: 16px; padding: 10px 5px"><strong>Bateria da case carregadora:</strong><br />
-1500 mAh</h4>
+<h3 style="font-family: roboto; font-weight: 300; font-size: 16px; background-color: #f9f8fb; padding: 20px 5px"><strong>Apoios externos confort&aacute;veis</strong></h3>
 <!-- AQUI É A ÚLTIMA IMAGEM (DE FRETE)--><img alt="FRETE GRÁTIS" src="https://recursos.iloft.com.br/MediaCenter/banner de produto frete gratis final azul.jpg" /></div>
 
 <h4 style="font-family: roboto;font-weight: 300; font-size:16px">&nbsp;</h4>
